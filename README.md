@@ -1,6 +1,6 @@
 # MTG Database
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](MTG_Banner.jpg)
 Format: ![Alt Text](url)
 
 
