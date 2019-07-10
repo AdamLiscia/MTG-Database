@@ -2,9 +2,9 @@
 
 
 I'm a huge fan of Magic the Gathering.  It's as if Poker, Chess, and Middle Earth got together and had a baby.  It's the perfect game for me.
-Recently, Magic has made the headlines a few times.  It's a billion dollar industry, it has $10 million prizes at tournaments, and it is now officially the world's most complex game and 
+Recently, Magic has made the headlines a few times.  It's a [billion dollar industry](https://www.bworldonline.com/move-over-monopoly-hasbros-next-big-growth-engine-is-magic-playing-cards/), it has $10 million prizes at tournaments, and it is now officially the world's most complex game and 
 
-https://www.bworldonline.com/move-over-monopoly-hasbros-next-big-growth-engine-is-magic-playing-cards/
+
 https://www.theverge.com/2018/12/6/18128822/magic-mtg-gathering-esports-pro-league-prizes-game-awards-2018
 https://www.technologyreview.com/s/613489/magic-the-gathering-is-officially-the-worlds-most-complex-game/
 
