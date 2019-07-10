@@ -1,8 +1,6 @@
+![MTG Banner](MTG_Banner.jpg)
+
 # MTG Database
-
-![GitHub Logo](MTG_Banner.jpg)
-Format: ![Alt Text](url)
-
 
 I'm a huge fan of Magic the Gathering.  It's as if Poker, Chess, and Middle Earth got together and had a baby.  It's the perfect game for me.
 Recently, Magic has made the headlines a few times.  It's a [billion dollar industry](https://www.bworldonline.com/move-over-monopoly-hasbros-next-big-growth-engine-is-magic-playing-cards/), it has [$10 million prizes at tournaments](https://www.theverge.com/2018/12/6/18128822/magic-mtg-gathering-esports-pro-league-prizes-game-awards-2018), and it is now [officially the world's most complex game](https://www.technologyreview.com/s/613489/magic-the-gathering-is-officially-the-worlds-most-complex-game/).
