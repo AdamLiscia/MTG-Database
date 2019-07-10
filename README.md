@@ -10,15 +10,20 @@ https://www.technologyreview.com/s/613489/magic-the-gathering-is-officially-the-
 
 Magic the Gathering is only growing, and so are the value of all the cards...
 
-# The goal for this project is to:
-  * Access TCGPlayer's API  -  Done
-  * Be able to get the current price of every card  -  Done
-    * Each card has multiple prices based on the set it's from, condition, language, and normal/foil - Done
-  * Track the prices - Running
-  * Create a relational database - Currently working on 
-  * Be able to create graphs and find trends
-  * Create a website
-  * Apply some time series analysis
+# Steps and goals for this project:
+  * Done
+     * Access TCGPlayer's API
+     * Be able to get the current price of every card
+       * Each card has multiple prices based on the set it's from, condition, language, and normal/foil
+     * Start tracking the prices
+ 
+  * Currently working on:
+     * Creating a relational database
+  
+  * Next
+    * Be able to create graphs and find trends
+    * Create a website
+    * Apply some time series analysis
 
 
 # Libraries Used
