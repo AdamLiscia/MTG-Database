@@ -13,6 +13,7 @@ Magic the Gathering is only growing, and so are the value of all the cards.  Ove
      * Access TCGPlayer's API
      * Be able to get the current price of every card
        * Each card has multiple prices based on the set it's from, condition, language, and normal/foil
+       * 2,105,571 combinations
      * Start tracking the prices
  
   * Currently working on:
