@@ -19,6 +19,7 @@ Magic the Gathering is only growing, and so are the value of all the cards.  Ove
  
   * Currently working on:
      * Creating a relational database
+      * Looking into both MySQL and AWS
   
   * Next
     * Be able to create graphs and find trends
